@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Choose">
+        <attr name="choose1" format="string"/>
+        <attr name="choose2" format="string"/>
+    </declare-styleable>
+</resources>
